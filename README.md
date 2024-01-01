@@ -59,6 +59,6 @@ This tool is designed to provide an easy and efficient way to transcribe audio c
 - **Batch Processing**: Add support for batch processing of multiple files for efficient bulk transcription.
 - **Information extraction improvement**:  Add support for timestamps along with transcriptions.
 
-## Conclusion
+## References
 
-This tool aims to simplify the process of converting and transcribing audio content by utilizing Google Cloud's Speech-to-Text API. By automating the workflow, it significantly reduces the manual effort and time involved in transcription tasks. With ongoing improvements and community feedback, it can evolve to serve a wider range of use cases and become an indispensable tool in the content creation and management process.
+https://cloud.google.com/speech-to-text/v2/docs/batch-recognize 
