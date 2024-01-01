@@ -1,4 +1,4 @@
-# README for GCP Speech-to-Text Transcription Tool
+# GCP Speech-to-Text Transcription Tool (API v2)
 
 ## Purpose
 
